@@ -1,0 +1,16 @@
+.aboutme {
+
+    margin:10px auto;
+    background-color:#e6e6e6;
+}
+.imgabout img{
+  margin: 0px auto;
+  display: block;
+}
+.aboutMeContainer {
+  padding: 10px 100px;
+}
+.aboutme h3 {
+  text-align:center;
+  padding:10px 0px;
+}

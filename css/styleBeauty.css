@@ -1,0 +1,38 @@
+main{
+    width:700px;
+    background-color:#e6e6e6;
+}
+
+#tblHeader div {
+    width:200px;
+    padding:10px;
+    float:left;
+}
+.clearfix{
+    clear:both;
+    content:'';
+    display:block;
+}
+button {
+    padding:5px;
+}
+
+#tblList div{
+    width:200px;
+    padding:10px;
+    float:left;
+}
+#SearchButton{
+    background-color: white;
+    margin:10px;
+}
+
+#SortDown, #SortUp {
+    padding:5px;
+    font-size: 10px;
+    width: 20px;
+    text-align: center;
+    border : 1px solid black;
+    display:inline-block;
+
+}

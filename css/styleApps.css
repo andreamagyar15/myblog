@@ -1,0 +1,27 @@
+
+.appContent{
+    border:solid 1px black;
+    padding:10px;
+    margin:10px;
+    width:550px;
+    height:400px;
+    box-sizing: border-box;
+    display:inline-block;
+    vertical-align: bottom;
+}
+.appContent p:nth-child(5n){
+    clear:both;
+    text-align:justify;
+}
+.appContent a{
+    color:blue;
+}
+.appContent a:hover{
+    color:black;
+}
+.appContent img{
+    width:150px;
+    height: 150px;
+    padding:10px;
+    float:left;
+}

@@ -1,0 +1,50 @@
+*{
+    margin:0px;
+}
+.clearfix::after{
+    clear:both;
+    content:'';
+    display: block;
+}
+.maincontact{
+   background-color:#e6e6e6;
+}
+.ContactUs {
+    width:50%;
+    margin:10px;
+    float:left;
+    
+}
+h3{
+    padding:10px;
+}
+
+#InfoBanner{
+    margin:10px 0px;
+    height: 20px;
+    box-sizing: border-box;
+}
+input[type=text] {
+    width:100%;
+    margin-top:10px;
+    padding:10px ;
+    font-size: 13px;
+}
+textarea{
+    width:100%;
+    height:150px;
+    margin-top:10px;
+    padding:10px ;
+    font-size: 13px;
+}
+input[type=submit]{
+    background-color:#00995c;
+    border-radius: 5px;
+    font-size:13px;
+    padding:10px;
+    color:white;
+}
+.DirectContact{
+    width:30%;
+    float:right;
+}
